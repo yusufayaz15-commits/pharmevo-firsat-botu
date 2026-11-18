@@ -21,15 +21,19 @@ const KOK = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const CIKTI = path.resolve(val("--cikti") || path.join(KOK, "assets", "firsatlar.json"));
 const TMO = 12000, MAX = 24, YAS = 120 * 864e5, YENILE = 24 * 3600e3;
 
-// Sitedeki loadLiveOpps ile aynı sorgular ve süzgeçler (değiştirirsen app.js'teki OPP_Q / OPP_HIT / OPP_DOM / OPP_NO ile eşle)
+// Sitedeki loadLiveOpps ile aynı sorgular ve süzgeçler (değiştirirsen app.js'teki OPP_Q / OPP_HIT / OPP_DOM / OPP_NO / OPP_CALL / OPP_RES ile eşle)
 const SORGULAR = ["TÜBİTAK 2209 OR 2242 OR 2247 başvuru öğrenci", "TEKNOFEST sağlıkta yapay zeka OR biyoteknoloji yarışma başvuru", "TÜSEB çağrı OR FarmaFikir OR eczacılık öğrencileri yarışma", "ön kuluçka OR biyogirişim OR hızlandırma programı başvuru öğrenci", "eczacılık kongresi bildiri özet gönderimi"];
 const gn = q => "https://news.google.com/rss/search?q=" + encodeURIComponent(q + " when:60d") + "&hl=tr&gl=TR&ceid=TR:tr";
 // İstersen resmi RSS akışlarını da ekle (örn. üniversite TTO / proje ofisi duyuru akışları): [adres, kaynak adı]
 const EK_AKISLAR = [];
 const HIT = /2209|2242|2247|teknofest|tüseb|tuseb|farmafikir|kuluçka|kulucka|biyogirişim|girişim|hackathon|yarışma|yarisma|hibe|çağrı|cagri|burs|ödül|odul|kongre|sempozyum|bildiri|hızlandırma|brandstorm/i;
 const DOM = /sağlık|saglik|eczac|ilaç|ilac|farma|biyo|tıp|medikal|öğrenci|ogrenci|üniversite|universite|tübitak|tubitak|teknofest|genç|araştırma/i;
-const NO = /lise |lise$|liseli|ortaokul|ilkokul|2204|ilköğretim|kpss|ales|yks|lgs|ihale|personel alım|memur alım/i;
+const NO = /lise |lise$|liseli|lisesi|ortaokul|ilkokul|2204|ilköğretim|kpss|ales|yks|lgs|ihale|personel alım|memur alım/i;
 const KAT = ["hibe", "yarisma", "kulucka", "kongre"];
+// Duyuru olmayan sonuç/başarı haberlerini ele (TEKNOFEST derece haberleri listeyi dolduruyordu): başlıkta sonuç işareti olmamalı,
+// başlıkta ya da özette bir çağrı/başvuru işareti bulunmalı
+const CAGRI = /başvuru|basvuru|çağrı|cagri|açık|acik|son tarih|son gün|kayıt|açıldı|acildi|başladı|uzatıldı|duyuru|bildiri|özet|katılım|eğitim|egitim|program/i;
+const SONUC = /sonuç|sonuc|açıklandı|belli oldu|final|birinci|ikinci|üçüncü|dördüncü|derece|kazandı|kazanan|ödülünü aldı|ödüllerini aldı|tamamlandı|sona erdi|tanıttı|paylaştı|başarı|şampiyon|madalya|yarıştı|rüzgar|ilk \d+['’]?[ae] gir/i;
 
 function kategori(t){
   t = String(t || "").toLocaleLowerCase("tr");
@@ -75,7 +79,7 @@ function dogrula(list, simdi){
     const title = duz(a.title).slice(0, 160), url = temizUrl(a.url || ""); if (!url || title.length < 8) continue;
     const k = anahtar(title); if (gor.has(k)) continue;
     const t = title + " " + (a.sum || "");
-    if (!a.secki && (!HIT.test(t) || !DOM.test(t) || NO.test(t))) continue;
+    if (!a.secki && (!HIT.test(t) || !DOM.test(t) || NO.test(t) || !CAGRI.test(t) || SONUC.test(title))) continue;
     const ts = Number(a.ts) || 0; if (!a.secki && ts && simdi - ts > YAS) continue;
     const end = /^\d{4}-\d{2}-\d{2}(T\d{2}:\d{2})?$/.test(String(a.end || "")) ? String(a.end) : "";
     if (end && Date.parse(end.length === 10 ? end + "T23:59" : end) < simdi) continue;   // süresi geçen çağrı yayımlanmaz
