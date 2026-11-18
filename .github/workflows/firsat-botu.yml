@@ -1,0 +1,33 @@
+# Pharmevo Fırsat Botu: 6 saatte bir assets/firsatlar.json dosyasını günceller.
+# Site bu dosyayı doğrudan GitHub'dan okur (raw.githubusercontent.com); Netlify'a yeniden yükleme gerekmez.
+# Elle çalıştırmak için: GitHub → Actions → "Fırsat botu" → Run workflow.
+name: Fırsat botu
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: firsat-botu
+  cancel-in-progress: true
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Duyuruları tara ve doğrula
+        # çıkış kodu 2 = bu turda geçerli kayıt yok (eski dosya korunur); iş başarısız sayılmaz
+        run: node araclar/firsat-botu.mjs --cikti assets/firsatlar.json || test $? -eq 2
+      - name: Değişiklik varsa kaydet
+        run: |
+          if [ -z "$(git status --porcelain -- assets/firsatlar.json)" ]; then echo "Değişiklik yok"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/firsatlar.json
+          git commit -m "Fırsat radarı güncellendi"
+          git push
