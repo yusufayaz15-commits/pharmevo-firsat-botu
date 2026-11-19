@@ -1,6 +1,6 @@
 {
  "v": 1,
- "at": 1795047586520,
+ "at": 1795102888295,
  "kaynak": "pharmevo-firsat-botu",
  "items": [
   {
@@ -34,6 +34,14 @@
    "src": "Akdeniz Gerçek",
    "ts": 1791702000000,
    "cat": "hibe"
+  },
+  {
+   "title": "TEKNOFEST Güneydoğu heyecanı başladı",
+   "sum": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjlDRmtYSmhyOVlYRXRxR2pKdGU3QllwbXBGaFRFY3JtSXB3VWRxNFdCV1ZzQ1BLSW1xNHBSZHM0VnphNFZPWWlrQnlrZTlKbEF3dFpDOWg4QjhZaUt0TDhMUEprNHh4OGRTRTFUUzh2WndlWDR4Q3RySHphRWNIUFZmNVhRM0RlSW95R3hWVWplMUdKbkJkbW5Ddw",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjlDRmtYSmhyOVlYRXRxR2pKdGU3QllwbXBGaFRFY3JtSXB3VWRxNFdCV1ZzQ1BLSW1xNHBSZHM0VnphNFZPWWlrQnlrZTlKbEF3dFpDOWg4QjhZaUt0TDhMUEprNHh4OGRTRTFUUzh2WndlWDR4Q3RySHphRWNIUFZmNVhRM0RlSW95R3hWVWplMUdKbkJkbW5Ddw?oc=5",
+   "src": "TRT Haber",
+   "ts": 1790751600000,
+   "cat": "yarisma"
   },
   {
    "title": "2247-C Stajyer Araştırmacı Burs Programı (STAR) 2026 Yılı 2. Dönem Proje Yürütücüsü Çağrısı Açıldı",
