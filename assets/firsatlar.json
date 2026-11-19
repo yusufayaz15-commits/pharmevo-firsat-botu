@@ -1,6 +1,6 @@
 {
  "v": 1,
- "at": 1795011860707,
+ "at": 1795047586520,
  "kaynak": "pharmevo-firsat-botu",
  "items": [
   {
@@ -42,6 +42,14 @@
    "src": "TÜBİTAK",
    "ts": 1790578800000,
    "cat": "hibe"
+  },
+  {
+   "title": "TEKNOFEST 2026 nerede yapılıyor? İleri Otonom Sistemler Yarışması hangi şehirde başladı?",
+   "sum": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2pUR0JvQU9hTWhhVlpOWWJqTmdUWnNYSkpkcFpHbGMxcWlOb2V3emhkT1Z6cHRZS0xWSFRqWHNTbGtHOUZyUjR5SW05S3VMQl83MTBYcW9WbXJjTjJlMEhMeG9TZm5BdTRpSzdJMnZkMXFISG5kME9yTkRkSG9BeHZVLXRYZjVpYncza1N1dWl2aVpsem9qNnhMeG",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2pUR0JvQU9hTWhhVlpOWWJqTmdUWnNYSkpkcFpHbGMxcWlOb2V3emhkT1Z6cHRZS0xWSFRqWHNTbGtHOUZyUjR5SW05S3VMQl83MTBYcW9WbXJjTjJlMEhMeG9TZm5BdTRpSzdJMnZkMXFISG5kME9yTkRkSG9BeHZVLXRYZjVpYncza1N1dWl2aVpsem9qNnhMeGpoWUM2VWFXOVE3XzRVby0xNVlLZkxYWmRZbXZMNUhKaklraUpOU1ZvZURWNQ?oc=5",
+   "src": "İnternet Haber",
+   "ts": 1790146800000,
+   "cat": "yarisma"
   }
  ]
 }
