@@ -1,14 +1,22 @@
 {
  "v": 1,
- "at": 1795477844800,
+ "at": 1795513809373,
  "kaynak": "pharmevo-firsat-botu",
  "items": [
   {
-   "title": "Akdağmadeni’nde öğrencilere TÜBİTAK ve ÜNİDES çağrısı",
-   "sum": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZE5xa3E1WHVKX2ppTERZN2p6dHJVT2ZzMllPb2o4TTNULUxOaWtOWUVNbGRHTGdhV2FQMFpubGEyYWtQTGFJLXRXRWp3WXZMdDM4MWUxbV9JckwxU1B5Z1Yzb0NiT3dkZjRSOUlXQks2RUl3VTBOdnptVHZIMHVkalpnTE5EQk9sM0I4dUU3Q0tkYzZUencyWNIBng",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZE5xa3E1WHVKX2ppTERZN2p6dHJVT2ZzMllPb2o4TTNULUxOaWtOWUVNbGRHTGdhV2FQMFpubGEyYWtQTGFJLXRXRWp3WXZMdDM4MWUxbV9JckwxU1B5Z1Yzb0NiT3dkZjRSOUlXQks2RUl3VTBOdnptVHZIMHVkalpnTE5EQk9sM0I4dUU3Q0tkYzZUencyWNIBngFBVV95cUxOVDlORGltY0c3UlVNa2JmdDFKcUR1bXpzNzFCeU9EZllpSkk3WXh4UU8wUWp1RWx5b0EyYUJXOU9SS2VVMnloMkRrZktjc3pxWEFvUU45cy1FVGNTZEtUdjFUalNlZUU4NzhlWE9XSWpIUFNTUWF1aGJWTXd4QnVHcEhrMkZDNHRnb3ZCMnpfQjhjN3o5bEt1bUlrUmhqQQ?oc=5",
-   "src": "Merhaba Yozgat Gazetesi",
-   "ts": 1794566760000,
+   "title": "Milli Teknoloji Hamlesi’nde Yeni Perde: TEKNOFEST Girişim Programı 2026 Başvuruları Başladı!",
+   "sum": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkRlLTNaUzJnVzZWSk12QUVSejVlbm1LdUNmTE11VTQxTk9aNFlTaUdfS3FYN0JtY1gwcTN3clNraWhkWm5vbllXR3ZVZ1VTNExUeHRQWXBzSkdSX1hka1VNYmRxTGJnY0RoNUpQTXFmZE1hVFctZjNjOU5OX1NSVzRtSjc3VTdER3h3dmpOMjZOVHJjVXkyRlFTRF",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkRlLTNaUzJnVzZWSk12QUVSejVlbm1LdUNmTE11VTQxTk9aNFlTaUdfS3FYN0JtY1gwcTN3clNraWhkWm5vbllXR3ZVZ1VTNExUeHRQWXBzSkdSX1hka1VNYmRxTGJnY0RoNUpQTXFmZE1hVFctZjNjOU5OX1NSVzRtSjc3VTdER3h3dmpOMjZOVHJjVXkyRlFTRFhrVndMelIzN2R0ekpZeEJfNUFhWkp2QTFEeDUzc2dnWklLYmc?oc=5",
+   "src": "Bilim Şenliği",
+   "ts": 1794264371000,
+   "cat": "kulucka"
+  },
+  {
+   "title": "İÜ Vakıfları Burs Başvurusu 2026 | İstanbul Üniversitesi",
+   "sum": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNbG9kbTlyNU1xalphcjFhTUowV1Atb3hmUGcyNzNBVDBGRnZnUWU4RnBtSXJWQzBack1JZnptanFhcEZCemlnZUlkYm5Yc3R2MFdvSkdfQkZCRUlaTy1KM2lmT001cmtGVndOTmFNcGNCRW9CWURkQm5tWS1hYXNselhlYnJpclNWUGFyc3hMMTZ1UQ?oc=5\" targe",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbG9kbTlyNU1xalphcjFhTUowV1Atb3hmUGcyNzNBVDBGRnZnUWU4RnBtSXJWQzBack1JZnptanFhcEZCemlnZUlkYm5Yc3R2MFdvSkdfQkZCRUlaTy1KM2lmT001cmtGVndOTmFNcGNCRW9CWURkQm5tWS1hYXNselhlYnJpclNWUGFyc3hMMTZ1UQ?oc=5",
+   "src": "Bilim Şenliği",
+   "ts": 1793653857000,
    "cat": "hibe"
   },
   {
@@ -24,7 +32,23 @@
    "sum": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ1dYX3lEbXhkUURldUF0Sko4NHNETFFNSE1mVlNRemxHUWNCSXQ1UGVHMkprYXdtZEdlN1B3cXhkYVFKTHhyeGJ5dnJiVUlCNHJDbk1QRVhnUHozX1ViSkdpSVVoWUR2OUxFQ1Qtd3VGS281NVdETVNuaXEwcDVCelZzaDUwbDNQMmVOUEdreFYtR1g2NlJaLUtwQX",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ1dYX3lEbXhkUURldUF0Sko4NHNETFFNSE1mVlNRemxHUWNCSXQ1UGVHMkprYXdtZEdlN1B3cXhkYVFKTHhyeGJ5dnJiVUlCNHJDbk1QRVhnUHozX1ViSkdpSVVoWUR2OUxFQ1Qtd3VGS281NVdETVNuaXEwcDVCelZzaDUwbDNQMmVOUEdreFYtR1g2NlJaLUtwQXFyLVZaXzF4MW5kVlppcGFDWFFJS1lLOVZpenJTdlVJcHBNOFY5ckFzYjFmSFBYalAwWFIyRGM4RlZrd1Budw?oc=5",
    "src": "TÜBİTAK",
-   "ts": 1793609300000,
+   "ts": 1793606400000,
+   "cat": "hibe"
+  },
+  {
+   "title": "T3 Vakfı Burs Başvuruları 2026-2027 | 5.000 Öğrenciye Geri Ödemesiz Dev Destek!",
+   "sum": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjZqR01kOVRhUzFCNjZmS0xUMkhadEtGa3pxX3hHSkhPMzdVWjJwVk91NnB4azBuNnA0NnYwSjMzN2lxRi1nVFVON3V4YkVNWFdNTDl6U0FCZ2NxaEZxVExXaTY1ZHo5OUs3TU9NWmE3blVNSWstc0t3akJ5M1RLamJLMjlicHZkazQyWVlfc2NWOWxVY0w3Q1U3X3",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjZqR01kOVRhUzFCNjZmS0xUMkhadEtGa3pxX3hHSkhPMzdVWjJwVk91NnB4azBuNnA0NnYwSjMzN2lxRi1nVFVON3V4YkVNWFdNTDl6U0FCZ2NxaEZxVExXaTY1ZHo5OUs3TU9NWmE3blVNSWstc0t3akJ5M1RLamJLMjlicHZkazQyWVlfc2NWOWxVY0w3Q1U3X3RZTlV0aUR0UjliYjhnMU1ibzNZ?oc=5",
+   "src": "Bilim Şenliği",
+   "ts": 1793475459000,
+   "cat": "hibe"
+  },
+  {
+   "title": "BŞEÜ'de TÜBİTAK 2209-A/B başvuru eğitimine öğrenciler yoğun ilgi gösterdi",
+   "sum": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGYzVjRzWUlKdUV0Rnp4dm5yeHhPSl9YanJDUFdIdlpRMERPcWV3MFlMN1JMaDNIUUxObUJ1Z044cTJlMURiZjlvVXFMWEJXRF94RWI3ME8taV81UC1OR3ZnaXlEZ2ltMkZqcUpTc1F2Z0tWb3dCTV9nRU1xUG5ESG5WSi1TWl9TR25IWHpkQkJaenNIM1RWUEU0Zk",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGYzVjRzWUlKdUV0Rnp4dm5yeHhPSl9YanJDUFdIdlpRMERPcWV3MFlMN1JMaDNIUUxObUJ1Z044cTJlMURiZjlvVXFMWEJXRF94RWI3ME8taV81UC1OR3ZnaXlEZ2ltMkZqcUpTc1F2Z0tWb3dCTV9nRU1xUG5ESG5WSi1TWl9TR25IWHpkQkJaenNIM1RWUEU0Zkc3VFZj0gGcAUFVX3lxTE5YdmxicHdkZlFtNkdsUWVSMDRHbHdTeHVnaXprdHJHd0c3REkweUY0Y09OTFJ0bVZ0UzdFeGROQTZ6blh4cUxLYTdldXB5TWNsOG5USEdzc1p4NjBpcFZTem1UTms1RHNlYXZtNnRrS0JwRHdTdndRX0NTenJlMUJrWmJ1MHlZNXlzbExwOHVKR2t6cC1FWWFjaXdsdw?oc=5",
+   "src": "Son Dakika",
+   "ts": 1792220400000,
    "cat": "hibe"
   },
   {
@@ -41,14 +65,6 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2wydk52ZGpzNjdIU2FESHNDV0hFRlBEczZvTS1sa3BxMGpGSlVCV3dHVFRDbkFpUGRIZWxrbFFTYlJNRHdabm9JV0ZsbC1qMlRTVHdVeWY3NkhLbDRTbThkQ2xCWXh3cXhUYjlSRHo4SlM3cTNRUW5fWHoxRUdFaUIzNFFmeHVIWGxwTXZfNWtmaDlPdzE2b3ZQOUJVcHM?oc=5",
    "src": "Akdeniz Gerçek",
    "ts": 1791702000000,
-   "cat": "hibe"
-  },
-  {
-   "title": "2247–A Ulusal Lider Araştırmacılar Programı ve 2247–D Ulusal Genç Liderler Programı 2026 Yılı Çağrıları Açıldı",
-   "sum": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZXA2MFRVenFJRkFsV1kybWd6a3B5YW5OZVRQOFNYSUFYVjRvWDhlelhwb3NPUENzd2QyM0x5ZFBYLTJyaWRzTVg0akdnZzlmdlFzMVJoVG9YYm1NNGM2QUQtRGNKenktWlZMWHdHb0E3TGNBc3lGNDhKRHlUSVI4MmJRVUYxNUJrb1NKNmU1aW9BT1kyajNIUHh3OU",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZXA2MFRVenFJRkFsV1kybWd6a3B5YW5OZVRQOFNYSUFYVjRvWDhlelhwb3NPUENzd2QyM0x5ZFBYLTJyaWRzTVg0akdnZzlmdlFzMVJoVG9YYm1NNGM2QUQtRGNKenktWlZMWHdHb0E3TGNBc3lGNDhKRHlUSVI4MmJRVUYxNUJrb1NKNmU1aW9BT1kyajNIUHh3OUFyWE9FT2ZZeHVYME4wS2dHZ1hJXzQ1OVYtSDRjY0ZGRGZ0cEpCQmlSbW9wVlhwZDVXSXpiUy1oazFIVHk?oc=5",
-   "src": "TÜBİTAK",
-   "ts": 1791442800000,
    "cat": "hibe"
   },
   {
