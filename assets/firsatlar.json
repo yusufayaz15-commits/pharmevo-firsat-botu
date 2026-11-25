@@ -1,32 +1,8 @@
 {
  "v": 1,
- "at": 1795595162521,
+ "at": 1795642713314,
  "kaynak": "pharmevo-firsat-botu",
  "items": [
-  {
-   "title": "Akdağmadeni’nde öğrencilere TÜBİTAK ve ÜNİDES çağrısı",
-   "sum": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZE5xa3E1WHVKX2ppTERZN2p6dHJVT2ZzMllPb2o4TTNULUxOaWtOWUVNbGRHTGdhV2FQMFpubGEyYWtQTGFJLXRXRWp3WXZMdDM4MWUxbV9JckwxU1B5Z1Yzb0NiT3dkZjRSOUlXQks2RUl3VTBOdnptVHZIMHVkalpnTE5EQk9sM0I4dUU3Q0tkYzZUencyWNIBng",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZE5xa3E1WHVKX2ppTERZN2p6dHJVT2ZzMllPb2o4TTNULUxOaWtOWUVNbGRHTGdhV2FQMFpubGEyYWtQTGFJLXRXRWp3WXZMdDM4MWUxbV9JckwxU1B5Z1Yzb0NiT3dkZjRSOUlXQks2RUl3VTBOdnptVHZIMHVkalpnTE5EQk9sM0I4dUU3Q0tkYzZUencyWNIBngFBVV95cUxOVDlORGltY0c3UlVNa2JmdDFKcUR1bXpzNzFCeU9EZllpSkk3WXh4UU8wUWp1RWx5b0EyYUJXOU9SS2VVMnloMkRrZktjc3pxWEFvUU45cy1FVGNTZEtUdjFUalNlZUU4NzhlWE9XSWpIUFNTUWF1aGJWTXd4QnVHcEhrMkZDNHRnb3ZCMnpfQjhjN3o5bEt1bUlrUmhqQQ?oc=5",
-   "src": "Merhaba Yozgat Gazetesi",
-   "ts": 1794566760000,
-   "cat": "hibe"
-  },
-  {
-   "title": "Milli Teknoloji Hamlesi’nde Yeni Perde: TEKNOFEST Girişim Programı 2026 Başvuruları Başladı!",
-   "sum": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkRlLTNaUzJnVzZWSk12QUVSejVlbm1LdUNmTE11VTQxTk9aNFlTaUdfS3FYN0JtY1gwcTN3clNraWhkWm5vbllXR3ZVZ1VTNExUeHRQWXBzSkdSX1hka1VNYmRxTGJnY0RoNUpQTXFmZE1hVFctZjNjOU5OX1NSVzRtSjc3VTdER3h3dmpOMjZOVHJjVXkyRlFTRF",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYkRlLTNaUzJnVzZWSk12QUVSejVlbm1LdUNmTE11VTQxTk9aNFlTaUdfS3FYN0JtY1gwcTN3clNraWhkWm5vbllXR3ZVZ1VTNExUeHRQWXBzSkdSX1hka1VNYmRxTGJnY0RoNUpQTXFmZE1hVFctZjNjOU5OX1NSVzRtSjc3VTdER3h3dmpOMjZOVHJjVXkyRlFTRFhrVndMelIzN2R0ekpZeEJfNUFhWkp2QTFEeDUzc2dnWklLYmc?oc=5",
-   "src": "Bilim Şenliği",
-   "ts": 1794264371000,
-   "cat": "kulucka"
-  },
-  {
-   "title": "İÜ Vakıfları Burs Başvurusu 2026 | İstanbul Üniversitesi",
-   "sum": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNbG9kbTlyNU1xalphcjFhTUowV1Atb3hmUGcyNzNBVDBGRnZnUWU4RnBtSXJWQzBack1JZnptanFhcEZCemlnZUlkYm5Yc3R2MFdvSkdfQkZCRUlaTy1KM2lmT001cmtGVndOTmFNcGNCRW9CWURkQm5tWS1hYXNselhlYnJpclNWUGFyc3hMMTZ1UQ?oc=5\" targe",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbG9kbTlyNU1xalphcjFhTUowV1Atb3hmUGcyNzNBVDBGRnZnUWU4RnBtSXJWQzBack1JZnptanFhcEZCemlnZUlkYm5Yc3R2MFdvSkdfQkZCRUlaTy1KM2lmT001cmtGVndOTmFNcGNCRW9CWURkQm5tWS1hYXNselhlYnJpclNWUGFyc3hMMTZ1UQ?oc=5",
-   "src": "Bilim Şenliği",
-   "ts": 1793653857000,
-   "cat": "hibe"
-  },
   {
    "title": "Öğrencilere TÜBİTAK 2209-A/B porojeleri eğitimi",
    "sum": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVh2S1VjWUxfUmhfcmNBOXdoTWx2N2x5SUtXZFVRYk5fVUk5a2ZFRWFFQm9YdWo4b0VtLTFGQXdPd01jeUlvdkVDb2NyTk9fWF9ScUQ5QURqWVk0dkF5ZVd5Sl9kVjRTMm9BNlBRSjFWRXN5VFJlRHFLMnZ2RTctdzlHeDI0QdIBiwFBVV95cUxNWnE4Z3ZDdk15QX",
@@ -39,16 +15,8 @@
    "title": "2247-C Stajyer Araştırmacı Burs Programı (STAR) 2026 Yılı 2. Dönem STAR Lisans ve STAR Öğretmen Çağrıları Açıldı",
    "sum": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ1dYX3lEbXhkUURldUF0Sko4NHNETFFNSE1mVlNRemxHUWNCSXQ1UGVHMkprYXdtZEdlN1B3cXhkYVFKTHhyeGJ5dnJiVUlCNHJDbk1QRVhnUHozX1ViSkdpSVVoWUR2OUxFQ1Qtd3VGS281NVdETVNuaXEwcDVCelZzaDUwbDNQMmVOUEdreFYtR1g2NlJaLUtwQX",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ1dYX3lEbXhkUURldUF0Sko4NHNETFFNSE1mVlNRemxHUWNCSXQ1UGVHMkprYXdtZEdlN1B3cXhkYVFKTHhyeGJ5dnJiVUlCNHJDbk1QRVhnUHozX1ViSkdpSVVoWUR2OUxFQ1Qtd3VGS281NVdETVNuaXEwcDVCelZzaDUwbDNQMmVOUEdreFYtR1g2NlJaLUtwQXFyLVZaXzF4MW5kVlppcGFDWFFJS1lLOVZpenJTdlVJcHBNOFY5ckFzYjFmSFBYalAwWFIyRGM4RlZrd1Budw?oc=5",
-   "src": "TÜBİTAK",
+   "src": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu",
    "ts": 1793606400000,
-   "cat": "hibe"
-  },
-  {
-   "title": "T3 Vakfı Burs Başvuruları 2026-2027 | 5.000 Öğrenciye Geri Ödemesiz Dev Destek!",
-   "sum": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjZqR01kOVRhUzFCNjZmS0xUMkhadEtGa3pxX3hHSkhPMzdVWjJwVk91NnB4azBuNnA0NnYwSjMzN2lxRi1nVFVON3V4YkVNWFdNTDl6U0FCZ2NxaEZxVExXaTY1ZHo5OUs3TU9NWmE3blVNSWstc0t3akJ5M1RLamJLMjlicHZkazQyWVlfc2NWOWxVY0w3Q1U3X3",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjZqR01kOVRhUzFCNjZmS0xUMkhadEtGa3pxX3hHSkhPMzdVWjJwVk91NnB4azBuNnA0NnYwSjMzN2lxRi1nVFVON3V4YkVNWFdNTDl6U0FCZ2NxaEZxVExXaTY1ZHo5OUs3TU9NWmE3blVNSWstc0t3akJ5M1RLamJLMjlicHZkazQyWVlfc2NWOWxVY0w3Q1U3X3RZTlV0aUR0UjliYjhnMU1ibzNZ?oc=5",
-   "src": "Bilim Şenliği",
-   "ts": 1793475459000,
    "cat": "hibe"
   },
   {
@@ -76,14 +44,6 @@
    "cat": "hibe"
   },
   {
-   "title": "2247–A Ulusal Lider Araştırmacılar Programı ve 2247–D Ulusal Genç Liderler Programı 2026 Yılı Çağrıları Açıldı",
-   "sum": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZXA2MFRVenFJRkFsV1kybWd6a3B5YW5OZVRQOFNYSUFYVjRvWDhlelhwb3NPUENzd2QyM0x5ZFBYLTJyaWRzTVg0akdnZzlmdlFzMVJoVG9YYm1NNGM2QUQtRGNKenktWlZMWHdHb0E3TGNBc3lGNDhKRHlUSVI4MmJRVUYxNUJrb1NKNmU1aW9BT1kyajNIUHh3OU",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZXA2MFRVenFJRkFsV1kybWd6a3B5YW5OZVRQOFNYSUFYVjRvWDhlelhwb3NPUENzd2QyM0x5ZFBYLTJyaWRzTVg0akdnZzlmdlFzMVJoVG9YYm1NNGM2QUQtRGNKenktWlZMWHdHb0E3TGNBc3lGNDhKRHlUSVI4MmJRVUYxNUJrb1NKNmU1aW9BT1kyajNIUHh3OUFyWE9FT2ZZeHVYME4wS2dHZ1hJXzQ1OVYtSDRjY0ZGRGZ0cEpCQmlSbW9wVlhwZDVXSXpiUy1oazFIVHk?oc=5",
-   "src": "TÜBİTAK",
-   "ts": 1791442800000,
-   "cat": "hibe"
-  },
-  {
    "title": "TEKNOFEST Güneydoğu Şanlıurfa’da başladı! Ulaşım, etkinlik takvimi ve bilmeniz gerekenler",
    "sum": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUJRQURERjI5aWwxeEtVc2dLNHV2dTdrTW8zZFNRYVl6YnY0SXE5ak0xVXoxZjR0S3cwVnIwZkpxZ21TeFpXZXRmd1VQNWs0cGxWRGJBQ2xoUUxrSXR3OVVjenlXYkxRdzJWLV85QU9sM25BaUNwOXpjeU5BRzFCN3NGdkFXQXZMQlRma1lwTUdQVnRhM2F5WkRhVT",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUJRQURERjI5aWwxeEtVc2dLNHV2dTdrTW8zZFNRYVl6YnY0SXE5ak0xVXoxZjR0S3cwVnIwZkpxZ21TeFpXZXRmd1VQNWs0cGxWRGJBQ2xoUUxrSXR3OVVjenlXYkxRdzJWLV85QU9sM25BaUNwOXpjeU5BRzFCN3NGdkFXQXZMQlRma1lwTUdQVnRhM2F5WkRhVThHaFBt?oc=5",
@@ -92,26 +52,10 @@
    "cat": "yarisma"
   },
   {
-   "title": "TEKNOFEST Coşkusu, Gösterilerle Başladı: Şanlıurfalılar Akın Etti",
-   "sum": "TEKNOFEST Coşkusu, Gösterilerle B",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wakJyYWptTDhwSEE3X1RxajRUakpaWkJ1V2FvWjNzQWl2cVdFTjBSOHhVSTJ3MktUVkFTb2tCLXFpRFFvNHFYZDNVNGtOTXV2Q1VjUWxhWmIwYkFTT0JpTFBoejA0N2JhZ3ZsZ2lST3Y5QQ?oc=5",
-   "src": "Urfadasın",
-   "ts": 1790751600000,
-   "cat": "yarisma"
-  },
-  {
-   "title": "TEKNOFEST Güneydoğu heyecanı başladı",
-   "sum": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjlDRmtYSmhyOVlYRXRxR2pKdGU3QllwbXBGaFRFY3JtSXB3VWRxNFdCV1ZzQ1BLSW1xNHBSZHM0VnphNFZPWWlrQnlrZTlKbEF3dFpDOWg4QjhZaUt0TDhMUEprNHh4OGRTRTFUUzh2WndlWDR4Q3RySHphRWNIUFZmNVhRM0RlSW95R3hWVWplMUdKbkJkbW5Ddw",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjlDRmtYSmhyOVlYRXRxR2pKdGU3QllwbXBGaFRFY3JtSXB3VWRxNFdCV1ZzQ1BLSW1xNHBSZHM0VnphNFZPWWlrQnlrZTlKbEF3dFpDOWg4QjhZaUt0TDhMUEprNHh4OGRTRTFUUzh2WndlWDR4Q3RySHphRWNIUFZmNVhRM0RlSW95R3hWVWplMUdKbkJkbW5Ddw?oc=5",
-   "src": "TRT Haber",
-   "ts": 1790751600000,
-   "cat": "yarisma"
-  },
-  {
    "title": "2247-C Stajyer Araştırmacı Burs Programı (STAR) 2026 Yılı 2. Dönem Proje Yürütücüsü Çağrısı Açıldı",
    "sum": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOYjNJTElNYWZzanl1ZE9SdmJIa0swY3VsaEJ6WkZQeFVERm5tOWJkaDUyQzBDSTlFeng0eTVRSEZhaUNvUEJJRkNBRkU4alNPMHFRbFRkczF1S3YxRTlUS3l3MFJ6QWZxN2M0WVdmdVVSOXJQaXk4aDlRX2VydXlpOGpCTnlwakhqWG1pZHkyNnI3ZktNVDFiQ2FCZ0",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYjNJTElNYWZzanl1ZE9SdmJIa0swY3VsaEJ6WkZQeFVERm5tOWJkaDUyQzBDSTlFeng0eTVRSEZhaUNvUEJJRkNBRkU4alNPMHFRbFRkczF1S3YxRTlUS3l3MFJ6QWZxN2M0WVdmdVVSOXJQaXk4aDlRX2VydXlpOGpCTnlwakhqWG1pZHkyNnI3ZktNVDFiQ2FCZ09DV0FrbXB6eVN5ZFBJVkI2TDBiTXJqNHgxR3BOb1gzV0loQllpNlE0bXlv?oc=5",
-   "src": "TÜBİTAK",
+   "src": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu",
    "ts": 1790578800000,
    "cat": "hibe"
   }
